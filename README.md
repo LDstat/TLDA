@@ -1,2 +1,0 @@
-# TLDA
-We provide the R code for high-dimensional Transfer Linear Discriminant Analysis (TLDA), which leverages informative source datasets to improve classification performance on the target task. As a example, we also include the code for one of the simulation studies presented in our paper. The paper is currently under major revision, and we will provide more detailed information and additional materials upon acceptance. Further updates will follow.
